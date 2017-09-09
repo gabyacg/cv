@@ -1,0 +1,30 @@
+[0903/190339.077:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0903/190339.376:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0903/190339.626:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0903/190429.962:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0903/190430.143:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0903/190430.143:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0903/190441.408:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0903/190441.533:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0903/190441.533:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0903/202227.544:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0903/202227.698:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0903/202227.698:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0903/202242.036:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0903/202242.186:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0903/202242.186:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0904/062452.108:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0904/062452.243:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0904/062452.243:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0904/062549.340:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0904/062549.511:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0904/062549.527:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0904/062734.049:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0904/062734.182:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0904/062734.182:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0904/202538.374:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0904/202538.652:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0904/202538.662:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0905/100733.285:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acceso denegado. (0x5)
+[0905/100733.566:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0905/100733.926:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
